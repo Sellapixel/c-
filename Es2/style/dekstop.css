@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background-color: beige;
+    padding: 1em;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    display: inline;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 1em;
+}
+#Tour{
+    background-color: green;
+}

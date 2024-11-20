@@ -1,0 +1,2 @@
+# ignora tutti i file .exe (il cancelletto segna i commenti. Questo è un commento)
+*exe
